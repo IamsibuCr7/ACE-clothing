@@ -12,8 +12,8 @@ function HomeInfo() {
         <p>
           Where style, sophistication, exclusivity is the forefront of our
           collection. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Repellat quaerat nostrum quia nam earum, libero, expedita impedit
-          delectus provident quo eveniet.
+          Repellat quaerat nostrum quia nami earum, libero, expedita impedit
+          delectus provident quoi eveniet.
         </p>
       </div>
       <button className="explore-clothing_btn">
